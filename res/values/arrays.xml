@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- <string-array name="query_name_suggestions">
+        <item>Maurice Moss</item>
+        <item>Roy Trenneman</item>
+        <item>Jen Barber</item>
+        <item>Richmond Felicity Avenal</item>
+        <item>The internet</item>
+        <item>Douglas Reynholm</item>
+        <item>Reynholm Industries</item>
+        <item>Denholm Reynholm</item>
+    </string-array> -->
+    <string-array name="query_name_suggestions">
+    	<item>Tim Cook</item> 
+    	<item>Mario Draghi</item> 
+   		<item>Xi Jinping</item>  
+   		<item>Pope Francis</item> 
+   		<item>Narendra Modi</item> 
+   		<item>Taylor Swift</item> 
+   		<item>Joanne Liu</item> 
+   		<item>John Roberts Jr.</item> 
+   		<item>Mary Barra</item> 
+   		<item>Joshua Wong</item> 
+   		<item>James Comey</item> 
+   		<item>Mark Carney</item> 
+   		<item>Ellen Johnson Sirleaf</item> 
+   		<item>Howard Schultz</item> 
+   		<item>Helena Morrissey</item> 
+   		<item>Mark Zuckerberg</item> 
+	</string-array>
+    <string-array name="query_suggestions">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>SCALA</item>
+        <item>Ruby</item>
+        <item>JavaScript</item>
+        <item>C#</item>
+        <item>Python</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>PHP</item>
+        <item>Go</item>
+        <item>Perl</item>
+        <item>Bash</item>
+        <item>Lua</item>
+        <item>R</item>
+        <item>TCL</item>
+        <item>Haskell</item>
+        <item>Objective C</item>
+        <item>Swift</item>
+        <item>Kotlin</item>
+        <item>jQuery</item>
+        <item>Development</item>
+        <item>Web</item>
+        <item>Ajax</item>
+        <item>Test</item>
+        <item>Testing</item>
+        <item>CookBook</item>
+        <item>Beagle</item>
+        <item>VMware</item>
+        <item>Less.js</item>
+        <item>IDE</item>
+        <item>Arduino</item>
+        <item>Xamarin</item>
+        <item>UI</item>
+        <item>Microsoft</item>
+        <item>Application</item>
+        <item>Development</item>
+        <item>JUnit</item>
+        <item>SQL</item>
+        <item>Beagle</item>
+    </string-array>
+</resources>

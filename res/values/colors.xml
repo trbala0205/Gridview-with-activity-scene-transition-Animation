@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_primary">#29CD93</color> <!-- 2196F3 -->
+    <color name="theme_primary_dark">#31F0AD</color> <!-- 1976D2 -->
+    <color name="theme_primary_light">#B0F3DC</color> <!-- BBDEFB -->
+
+    <color name="theme_background">#FFFFFF</color>
+    <color name="theme_background_inverse">#212121</color>
+</resources>
